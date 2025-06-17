@@ -3,4 +3,6 @@
 - Name : M. ZAIDAN ZIDNA FANN
 - NIM  : 607062400042
 - QUESTION TYPE : G
- # SOAL POIN A & B TERPISAH MENGGUNAKAN BRANCH
+
+ # SOAL POIN A & B TERPISAH MENGGUNAKAN BRANCH #
+ # https://github.com/MeeDdan/AssesmentPraktikum-2-ISD/tree/main #
