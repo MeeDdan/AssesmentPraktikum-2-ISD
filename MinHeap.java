@@ -12,6 +12,7 @@ public class MinHeap {
         elements.add(null);
     }
 
+    
     /**
      * Returns the index of the left child.
      *
