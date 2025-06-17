@@ -19,6 +19,7 @@ public class Main {
         q.add(new Pojo(5, "Pour sauce over patty"));
         q.add(new Pojo(6, "Eat"));
 
+        
                               //=======================\\
                              //         SOAL : B        \\
          //=================// Munculkan seluruh langkah,\\=====================\\

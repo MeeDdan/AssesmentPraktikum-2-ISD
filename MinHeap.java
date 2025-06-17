@@ -26,6 +26,7 @@ public class MinHeap {
     }
 
     
+    
     public void add(Comparable newElement) {
         elements.add(null);
         int index = elements.size() - 1;
