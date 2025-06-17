@@ -1,2 +1,4 @@
 # AssesmentPraktikum-2-ISD
-Assesment Praktikum
+Name : M. Zaidan Zidna Fann
+NIM  : 607062400042
+TYPE : 
